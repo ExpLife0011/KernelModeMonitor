@@ -1,0 +1,8 @@
+﻿Build started 22/06/2018 11:41:58.
+     1>Project "C:\kernel-User\KSys Package\KSys Package.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\Windows Kits\8.1\build\WindowsDriver.common.targets(1366,5): error MSB3030: Could not copy the file "C:\kernel-User\x64\Win8.1Release\kernel-driver-win6.0plus.sys" because it was not found.
+     1>Done Building Project "C:\kernel-User\KSys Package\KSys Package.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.13
