@@ -15,3 +15,7 @@ Tested in windows 7 x86 and Windows 7 x64. Wont work on another Windows version 
 # Interesting Features
 # Ntfs explorer
 Module to navigate through directories from kernel using internal function IopCreateFile, It can detect hidden files and bypass traditional hooks that block file-opening
+# Photos
+![alt tag](https://github.com/alex9191/KernelModeMonitor/blob/master/Capture.PNG)
+![alt tag](https://github.com/alex9191/KernelModeMonitor/blob/master/1.PNG)
+![alt tag](https://github.com/alex9191/KernelModeMonitor/blob/master/2.PNG)
