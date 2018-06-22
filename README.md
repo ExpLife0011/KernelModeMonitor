@@ -12,3 +12,6 @@ User-mode application that communicates with the driver. Compile Monitor for bot
 Kernel-mode driver. Compile KSys for both x64 and x86 platforms
 # Platforms
 Tested in windows 7 x86 and Windows 7 x64. Wont work on another Windows version because both drivers use private data offsets
+# Interesting Features
+# Ntfs explorer
+Module to navigate through directories from kernel using internal function IopCreateFile, It can detect hidden files and bypass traditional hooks that block file-opening
